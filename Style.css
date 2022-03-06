@@ -1,0 +1,28 @@
+body{
+              color: 
+              aquamarine;
+              text-shadow: 2px 3px 4px #ffff00;
+              background: black;
+              font-size: 15px;
+        
+        }
+        button{
+              background: green;
+              width: 100px;
+              text-shadow: 2px 3px 4px ;
+              font-family: 15px;
+              box-shadow: 2px 3px 4px #00ff00;
+        }
+        .box1{
+              background: red;
+              width: 70px;
+              height: 25px;
+              border: 2px 3px 4px  solid #ffff00;
+              display: flex;
+              justify-content: center;
+              align-items: center;
+              left: 100%;
+              font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+              box-shadow: 2px 3px 4px #bcc90b;
+        }
+        

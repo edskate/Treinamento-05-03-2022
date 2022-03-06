@@ -3,7 +3,8 @@
                             "titleBar.activeBackground": "#20525f"
               },
               "spellchecker.ignoreWordsList": [
-                            "iphone"
+                            "iphone",
+                            "NONINFRINGEMENT"
               ],
               "cSpell.words": [
                             "Algoritimo",
