@@ -1,5 +1,20 @@
 {
               "workbench.colorCustomizations": {
-                            "titleBar.activeBackground": "#c18f4a"
-              }
+                            "titleBar.activeBackground": "#20525f"
+              },
+              "spellchecker.ignoreWordsList": [
+                            "iphone"
+              ],
+              "cSpell.words": [
+                            "Algoritimo",
+                            "algoritmos",
+                            "Algoritmos",
+                            "conjunto",
+                            "determinado",
+                            "executados",
+                            "finitos",
+                            "organizados",
+                            "problema",
+                            "resolvem"
+              ]
 }
