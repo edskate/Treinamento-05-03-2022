@@ -4,6 +4,7 @@ body{
               text-shadow: 2px 3px 4px #ffff00;
               background: black;
               font-size: 15px;
+              
         
         }
         button{
@@ -12,6 +13,7 @@ body{
               text-shadow: 2px 3px 4px ;
               font-family: 15px;
               box-shadow: 2px 3px 4px #00ff00;
+              text-align: center;
         }
         .box1{
               background: red;
